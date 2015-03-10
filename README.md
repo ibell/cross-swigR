@@ -1,4 +1,5 @@
 Cross-compiling R extensions for windows using MinGW and swig from linux
+========================================================================
 
 It is quite painful to compile R extensions on windows, so here is an example of cross-compiling a simple example for windows from linux
 
